@@ -1,0 +1,6 @@
+body {background-color:white; font-family:"Lucinda Grande", "Lucinda Sans Unicode", "Ariel", "Verdana", "sans-serif"; text-align: center;}
+p {font-size: .9em;}
+#wrapper {margin-top:200px;}
+#enter {display: none;}
+#email {display: none; margin-top: 75px;}
+.center {margin: auto;width:398px;}
